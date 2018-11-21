@@ -45,3 +45,50 @@ public abstract class BaseFragment extends Fragment{
 
 
 
+
+/**
+ * 作者：Xiaobei Zhang on 2018/11/21 0021 10:55
+ * <p>
+ * 邮箱：languobeibei@163.com
+ * 常用框架Fragment
+ */
+public class CommonFrameFragment extends BaseFragment {
+    
+    
+  }
+  
+/**
+ * 作者：Xiaobei Zhang on 2018/11/21 0021 10:55
+ * <p>
+ * 邮箱：languobeibei@163.com
+ * 常用框架Fragment
+ */
+public class ThridPartyFragment extends BaseFragment {
+    }
+/**
+ * 作者：Xiaobei Zhang on 2018/11/21 0021 10:55
+ * <p>
+ * 邮箱：languobeibei@163.com
+ * 自定义Fragment
+ */
+public class CustomFragment extends BaseFragment {
+ }
+  /**
+ * 作者：Xiaobei Zhang on 2018/11/21 0021 10:55
+ * <p>
+ * 邮箱：languobeibei@163.com
+ * 其他Fragment
+ */
+public class OtherFragment extends BaseFragment {
+     }
+    /**
+ * 作者：Xiaobei Zhang on 2018/11/21 0021 10:45
+ * <p>
+ * 邮箱：languobeibei@163.com
+ * 启动页，过渡的广告页
+ */
+public class LunchActivity extends AppCompatActivity {
+     }
+  
+  
+
